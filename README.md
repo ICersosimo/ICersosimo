@@ -3,7 +3,7 @@
 
 ### Objetivo
 Busco aprender y mejorar mis conocimientos de desarrollo día a día.
-🚀 ¡Estoy lista para nuevas oportunidades y para hacer que las ideas cobren vida a través del código!
+-🚀 ¡Estoy lista para nuevas oportunidades y para hacer que las ideas cobren vida a través del código!
 
 ### Habilidades Tecnológicas
 - Javascript
