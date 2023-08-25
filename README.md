@@ -1,16 +1,21 @@
-### Hi there 👋
+### Acerca de mí
+👋 ¡Hola! Mi nombre es Ines Cersosimo y soy desarrolladora Full Stack. Mi recorrido inició en la academia Henry, donde me sumergí en el universo de la programación y me dí cuenta que esto es realmente para mí. Siempre estoy buscando aprender nuevas tecnologías y estar al tanto de las últimas tendencias en el desarrollo web. Además de mi formación técnica, poseo habilidades efectivas de comunicación y la capacidad de trabajar en equipo.
 
-<!--
-**ICersosimo/ICersosimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Objetivo
+Busco aprender y mejorar mis conocimientos de desarrollo día a día.
+🚀 ¡Estoy lista para nuevas oportunidades y para hacer que las ideas cobren vida a través del código!
 
-Here are some ideas to get you started:
+### Habilidades Tecnológicas
+- Javascript
+- React.js
+- Redux
+- HTML5
+- CSS
+- Node.js
+- Express.js
+- Sequelize
+- PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Si querés comunicarte conmigo, ¡no dudes en contactarme! 
+- 🌐[Linkedin](https://www.linkedin.com/in/inescersosimo/)
+- 📩ines.cersosimo@gmail.com
