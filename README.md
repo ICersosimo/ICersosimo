@@ -7,6 +7,7 @@ Busco aprender y mejorar mis conocimientos de desarrollo día a día.
 
 ### 💻 Habilidades Tecnológicas
 - Javascript
+- Typescript
 - React.js
 - Redux
 - HTML5
